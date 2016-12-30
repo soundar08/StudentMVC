@@ -1,0 +1,4 @@
+C:\Lab\Student\Student\src\Student\bin\Debug\netcoreapp1.0\Student.deps.json
+C:\Lab\Student\Student\src\Student\bin\Debug\netcoreapp1.0\Student.runtimeconfig.json
+C:\Lab\Student\Student\src\Student\bin\Debug\netcoreapp1.0\Student.runtimeconfig.dev.json
+C:\Lab\Student\Student\src\Student\obj\Debug\netcoreapp1.0\Student.csprojResolveAssemblyReference.cache
